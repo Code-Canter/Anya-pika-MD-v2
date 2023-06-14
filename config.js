@@ -26,7 +26,7 @@ global.author = "𝙋𝙄𝙆𝘼"
 global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
 global.myweb = "https://github.com/PikaBotz" // You can put any link 
 global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.footer = "© Queen Anya Bot"
+global.footer = "©  Bot"
 global.prefa = ['-'] // single prefix
 global.themeemoji = '🔥'
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
@@ -34,16 +34,16 @@ global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM �
 
 
 global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['918811074852'] 
+global.ownernumber = ['2348115046415'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
-global.continent = "Asia" // your continent name 
-global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.continent = "Africa" // your continent name 
+global.region = "Nigera" // your country name
+global.state = "Lagos" // your state name
+global.district = "Ikeja" // your district name
+global.timezone = "Nigeria/Lagos" // search on google if you don't know the timezone of your country //
 global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.email = "otunbaodubanjo@gmail.com" // put your email here
 
 
 // Greeting messages
@@ -54,8 +54,8 @@ global.greet4 = "Good night 😴" // after 8:30 PM
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
-global.sudo = ['916900******','91881107****']  // Co - Owners
+global.premium = ['234811504641','917355******']  // available soon
+global.sudo = ['2348115046415','2348182403749']  // Co - Owners
 
 
 //--------------- Tip ----------------\\
